@@ -1,1 +1,1 @@
-##This is a repo which follow a distributed behavior and load larga data using mongo db as support
+##This is a repo which follows a distributed behavior and load large data using mongo db as support
